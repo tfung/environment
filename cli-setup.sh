@@ -15,8 +15,3 @@ nvm install stable
 brew install yarn
 
 echo "Installed yarn"
-
-# install create-react-app
-brew install create-react-app
-
-echo "Installed create-react-app"
